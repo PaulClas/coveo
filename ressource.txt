@@ -1,0 +1,5 @@
+https://docs.coveo.com/en/2030/cloud-v2-administrators/generic-rest-api-source-tutorial
+
+https://docs.coveo.com/en/1896/cloud-v2-administrators/add-or-edit-a-generic-rest-api-source
+
+https://docs.coveo.com/en/1996/cloud-v2-administrators/generic-rest-api-source-json-configuration-examples
